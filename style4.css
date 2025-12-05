@@ -1,0 +1,27 @@
+.container{
+    border: 2px solid black;
+    height: 500px;
+    width:700px;
+}
+.box{
+    display:inline-block;
+    height:400px;
+    width:200px;
+    
+
+}
+.box1{
+    background-color: yellow;
+}
+.box2{
+    background-color:brown ;
+}
+.box3{
+    background-color: aqua;
+}
+h4{
+    text-align: center;
+}
+p{
+    text-align: center;
+}

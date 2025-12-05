@@ -1,0 +1,15 @@
+.container{
+    display:flex;
+    height:200px;
+    width:500px;
+    background-color: aqua;
+    border: 1px solid black;
+    flex-wrap: wrap-reverse;
+    
+}
+.item{
+    height:100px;
+    width:100px;
+    background-color: red;
+    border:2px solid black;
+}

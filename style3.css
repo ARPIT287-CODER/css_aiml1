@@ -1,0 +1,23 @@
+#a{
+    border: 2px solid black;
+    width:800px ;
+    padding:20px ;
+    display:inline-block;
+}
+
+
+
+#d{
+    background-color: aqua;
+
+}
+h3{
+    background-color: green;
+}
+div{
+    border:2px solid black;
+    text-align: center;
+    width: 800px;
+    
+}
+
