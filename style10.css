@@ -1,0 +1,37 @@
+        *{
+            margin: 0;
+            padding: 0;
+        }
+h1{
+    text-align: center;
+    font-family: cursive;
+    color: black;
+    text-decoration: underline;
+    margin-bottom: 50px;
+
+}
+div{
+    padding: 20px;
+    width: 80px;
+    background-color: black;
+}
+#red{
+     border-radius: 100%;
+    width: 40px;
+    text-align: center;
+    background-color: red;
+}
+#green{
+    text-align: center;
+     border-radius: 100%;
+     width: 40px;
+   
+    background-color: green;
+}
+#yellow{
+    text-align: center;
+    border-radius: 100%;
+     width: 40px;
+    
+    background-color: yellow;
+}
